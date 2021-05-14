@@ -197,6 +197,5 @@ owner:
   - 'coffi'
   - 'youtube'
   - 'admin'
-  - 'admin'
   - 'developer'
   permissions: ["gyros.*"]
