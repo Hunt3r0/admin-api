@@ -47,7 +47,7 @@ premium:
   permissions:
   - 'donate.premium'
 smoke:
-  displayName: '&c&lSMOKE &c'
+  displayName: '&2&lSMOKE &c'
   donate: true
   boost: 1.6
   reward-buy: 700
@@ -145,7 +145,7 @@ admin:
   - 'litebans.notify'
   - 'bw.forcestart'
 developer:
-  displayName: '&2&lDEV &2'
+  displayName: '&b&lDEV &2'
   boost: 2.0
   secure: true
   subgroups:
