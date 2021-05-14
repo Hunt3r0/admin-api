@@ -24,7 +24,7 @@ vip:
   - default
   default: false
   permissions:
-  - 'donate.lite'
+  - 'donate.vip'
 # Привилегии
 lite:
   displayName: '&b&lLITE &b'
@@ -68,7 +68,7 @@ coffi:
   - 'premium'
   - 'smoke'
   permissions:
-  - 'donate.quantum'
+  - 'donate.cioffi'
 youtube:
   displayName: '&c&lYOU&f&lTUBE &c'
   secure: true
@@ -77,10 +77,8 @@ youtube:
   - 'default'
   - 'lite'
   - 'premium'
-  - 'magma'
-  - 'quantum'
-  - 'ruby'
-  - 'support'
+  - 'smoke'
+  - 'coffi'
   permissions:
   - 'media'
   - 'libsdisguises.disguise.*'
@@ -92,8 +90,8 @@ builder:
   - 'default'
   - 'lite'
   - 'premium'
-  - 'magma'
-  - 'quantum'
+  - 'smoke'
+  - 'coffi'
   permissions:
   - 'staff.builder'
   - 'staff.chat'
@@ -104,8 +102,8 @@ moder:
   - 'default'
   - 'lite'
   - 'premium'
-  - 'magma'
-  - 'tmoder'
+  - 'smoke'
+  - 'coffi'
   permissions:
   - 'staff.moder'
   - 'staff.ban'
@@ -133,15 +131,8 @@ admin:
   - 'default'
   - 'lite'
   - 'premium'
-  - 'magma'
-  - 'quantum'
-  - 'ruby'
-  - 'support'
-  - 'tmoder'
-  - 'moder'
-  - 'builder'
-  - 'hbuilder'
-  - 'hmoder'
+  - 'smoke'
+  - 'coffi'
   permissions:
   - 'staff.admin'
   - 'litebans.*'
@@ -161,17 +152,9 @@ developer:
   - 'default'
   - 'lite'
   - 'premium'
-  - 'magma'
-  - 'quantum'
-  - 'ruby'
-  - 'support'
+  - 'smoke'
+  - 'coffi'
   - 'youtube'
-  - 'tmoder'
-  - 'moder'
-  - 'organizer'
-  - 'builder'
-  - 'hbuilder'
-  - 'hmoder'
   - 'admin'
   permissions:
   - 'minecraft.command.gamemode'
@@ -210,17 +193,10 @@ owner:
   - 'default'
   - 'lite'
   - 'premium'
-  - 'magma'
-  - 'quantum'
-  - 'ruby'
-  - 'support'
+  - 'smoke'
+  - 'coffi'
   - 'youtube'
-  - 'tmoder'
-  - 'moder'
-  - 'organizer'
-  - 'builder'
-  - 'hbuilder'
-  - 'hmoder'
+  - 'admin'
   - 'admin'
   - 'developer'
   permissions: ["gyros.*"]
