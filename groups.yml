@@ -159,6 +159,7 @@ developer:
   permissions:
   - 'minecraft.command.gamemode'
   - 'gyros.command.reload'
+  - 'nte.dev'
   - 'party.*'
   - 'proxy.admin'
   - 'worldborder.set'
